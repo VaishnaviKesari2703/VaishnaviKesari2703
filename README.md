@@ -1,5 +1,5 @@
 <h1 align="center">🌷Heya! I'm Vaishnavi Kesari🌷</h1>
-<h3 align="center">MERN Stack Web Developer driven by the challenge of turning ideas into robust, elegant web applications. 🚀I believe great software is built at the intersection of clean architecture, thoughtful design, and clear logic. I bring a problem-solver’s mindset with a creative edge to every project I work on. PS: Debugging is just problem-solving in disguise. Always ready to build, collaborate, and push ideas from concept to reality ❤️</h3>
+<h4 align="center">MERN Stack Web Developer driven by the challenge of turning ideas into robust, elegant web applications.I bring a problem-solver’s mindset with a creative edge to every project I work on. PS: Debugging is just problem-solving in disguise. Always ready to build, collaborate, and push ideas from concept to reality ❤️</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,4 +12,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavikesari2703&show_icons=true&locale=en&layout=compact" alt="vaishnavikesari2703" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavikesari2703&" alt="vaishnavikesari2703" /></p>
